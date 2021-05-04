@@ -2,8 +2,8 @@
   
   
 In this repository the visualization of stats and important graphs are obtained in order to 
-better understand the relation of coronavirus and impactful graphs which can be used for advanced studies.
-                                                                                                                                                              The World Health Organisation (WHO) has declared the coronavirus disease 2019 (COVID-19) 
+better understand the relation of coronavirus and impactful graphs which can be used for advanced studies. 
+The World Health Organisation (WHO) has declared the coronavirus disease 2019 (COVID-19) 
 a pandemic[1]. A global coordinated effort is needed to stop the further spread of the virus. 
 Coronaviruses are a family of viruses that cause illness such as respiratory diseases or 
 gastrointestinal diseases.
